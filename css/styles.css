@@ -4,12 +4,12 @@
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #86a7cc;
+    background-color: #a9bdd4;
 }
 
 .header {
-    background: #abd5ef;
-    color: #fff;
+    background: #a9bdd4;
+    color: #ffffff;
     padding: 1rem 0;
     text-align: center;
 }
@@ -25,7 +25,7 @@
 }
 
 .nav ul li a {
-    color: #fff;
+    color: #ffffff;
     text-decoration: none;
 }
 
@@ -33,7 +33,7 @@
     text-align: center;
     padding: 3rem;
     background: #333;
-    color: #fff;
+    color: Z#ffffff;
     position: fixed;
     width: 100%;
     bottom: 0;
